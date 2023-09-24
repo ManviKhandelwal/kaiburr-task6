@@ -17,15 +17,7 @@ This project involves text classification of consumer complaints using machine l
 
 •	[Requirements](#requirements)
 
-•	[Project Structure](#project-structure)
 
-•	[Usage](#usage)
-
-•	[Results](#results)
-
-•	[Contributing](#contributing)
-
-•	[License](#license)
 
 ## Project Overview
 
